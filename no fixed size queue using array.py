@@ -42,6 +42,6 @@ class noFixedMyQueue:
 #rootNode.enqueue("data") (By this function we can add the data in to the queue).
 #rootNode.dequeue()  (By this function we can access the first data and after accessing the data it will popup that data only first data).
 #rootNode.peek()  (this function will show the data which is only available at first index number or first position).
-#rootNode.delete()  (By this function we can delete entire data in the Queue).
+#rootNode.delete()  (By this function we can delete entire data in the Queue)..
 
         
